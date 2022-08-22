@@ -34,5 +34,3 @@ function myFunction() {
     alert("Tu contraseña se copio");
   }
 
-
-
